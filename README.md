@@ -1,1 +1,2 @@
 # PlayingCardsUsingCNN
+Remi card detection
